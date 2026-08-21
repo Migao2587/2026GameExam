@@ -55,6 +55,14 @@ public class ShootSaveData
     public int targetCount;
     public float boomRadius;
 }
+//UI数据类
+[System.Serializable]
+public class UISaveData
+{
+    public long killcount;
+    public long scorecount;
+    public float livetime;
+}
 
 //存档数据类
 [System.Serializable]
@@ -65,4 +73,5 @@ public class GameSaveData
     public ExpSaveData ExpSaveData;
     public MousSaveData MousM;
     public ShootSaveData ShootData;
+    public UISaveData UISaveData;
 }

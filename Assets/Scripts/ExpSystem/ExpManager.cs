@@ -107,20 +107,28 @@ public class ExpManager : MonoBehaviour
     private void changeMousterSpace()
     {
         mouster.spawnSpace = 10 - (currentLevel / 100f) * 10;
-        if (mouster.spawnSpace <= 1)
+        if (mouster.spawnSpace <= 3)
         { 
-            mouster.spawnSpace = 1;
+            mouster.spawnSpace = 3;
         }
     }
     //更新刷怪数量
     private void changeMousterCount()
     {
         mouster.spawnCount += (int)(currentLevel / 5f);
+        if (mouster.spawnCount >= 20)
+        { 
+            mouster.spawnCount = 20;
+        }
     }
     //更新怪物上限
     private void changeMousterMax()
     {
         mouster.maxAlive += (int)(currentLevel/10f);
+        if (mouster.maxAlive >= 100)
+        { 
+            mouster.maxAlive = 100;
+        }
     }
 
     //存入经验配置

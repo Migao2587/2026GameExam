@@ -19,6 +19,7 @@ TagManager:
   - aliveTime
   - score
   - MissValue
+  - UIData
   layers:
   - Default
   - TransparentFX

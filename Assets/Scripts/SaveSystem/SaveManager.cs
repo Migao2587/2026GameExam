@@ -17,6 +17,7 @@ public class SaveManager : MonoBehaviour
     public CharacterBase player;
     public ExpManager exp;
     public NormalShoot shoot;
+    public UIinfo ui;
     //存储路径
     public string savePath;
     public string saveFolder;
@@ -41,6 +42,11 @@ public class SaveManager : MonoBehaviour
         if (expObj != null)
         {
             exp = expObj.GetComponent<ExpManager>();
+        }
+        GameObject uiObj = GameObject.FindWithTag("UIData");
+        if (uiObj != null)
+        {
+            ui = uiObj.GetComponent<UIinfo>();
         }
     }
 
@@ -77,7 +83,7 @@ public class SaveManager : MonoBehaviour
         gameData.MousM = mous.SaveMous();
         gameData.ExpSaveData = exp.SaveExp();
         gameData.ShootData = shoot.SaveShoot();
-
+        gameData.UISaveData = ui.SaveData();
         string josn = JsonUtility.ToJson(gameData,true);
         File.WriteAllText(savePath, josn);
     }
@@ -98,6 +104,7 @@ public class SaveManager : MonoBehaviour
             mous.LoadMous(saveData.MousM);
             exp.LoadExp(saveData.ExpSaveData);
             shoot.LoadShoot(saveData.ShootData);
+            ui.LoadData(saveData.UISaveData);
             File.Delete(savePath);
         }
     }

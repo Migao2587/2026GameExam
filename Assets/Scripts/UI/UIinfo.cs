@@ -56,4 +56,23 @@ public class UIinfo : MonoBehaviour
         int sec = (int)(time % 60);
         alive.text = $"{min:D2}:{sec:F1}";
     }
+
+    //存档
+    public UISaveData SaveData()
+    {
+        return new UISaveData()
+        {
+            killcount = this.killcount,
+            scorecount = this.scorecount,
+            livetime = this.livetime,
+        };
+    }
+    //读档
+    public void LoadData(UISaveData data)
+    { 
+        this.killcount = data.killcount;
+        this.scorecount = data.scorecount;
+        this.livetime = data.livetime;
+        reFresh();
+    }
 }

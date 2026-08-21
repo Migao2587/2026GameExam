@@ -13,7 +13,7 @@ public class CharacterBase : MonoBehaviour
     public float spaceTime;
     public float money;
     private bool wudi = false;
-    private float tempHpChange;
+    private string tempHpChange;
     public UnityEvent<float, float> refreshHpUI;
     public UnityEvent DIE;
     public UnityEvent updateUI;
@@ -31,17 +31,17 @@ public class CharacterBase : MonoBehaviour
         anim = GetComponent<Animator>();
         hp = maxHp;
         money = 0;
-        tempHpChange = hp / maxHp;
+        tempHpChange = "" + hp + maxHp;
         refreshHpUI?.Invoke(hp, maxHp);
         shoot = GetComponent<NormalShoot>();
     }
     //检测血量变化
     private void LateUpdate()
     {
-        if (tempHpChange != hp / maxHp)
+        if (tempHpChange != ""+hp+maxHp)
         {
             refreshHpUI?.Invoke(maxHp, hp);
-            tempHpChange = hp / maxHp;
+            tempHpChange = "" + hp + maxHp;
         }
     }
     //受伤

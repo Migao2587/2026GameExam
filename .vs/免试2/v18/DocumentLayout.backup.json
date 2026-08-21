@@ -1,12 +1,156 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96BC1B0D-362C-224A-B296-021E7868A21B}|Assembly-CSharp.csproj|e:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\assets\\scripts\\savesystem\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BC1B0D-362C-224A-B296-021E7868A21B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\savesystem\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96BC1B0D-362C-224A-B296-021E7868A21B}|Assembly-CSharp.csproj|e:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\assets\\scripts\\player\\normalshoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BC1B0D-362C-224A-B296-021E7868A21B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\normalshoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96BC1B0D-362C-224A-B296-021E7868A21B}|Assembly-CSharp.csproj|E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\assets\\scripts\\savesystem\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BC1B0D-362C-224A-B296-021E7868A21B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\savesystem\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96BC1B0D-362C-224A-B296-021E7868A21B}|Assembly-CSharp.csproj|E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\assets\\scripts\\mouster\\moustermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BC1B0D-362C-224A-B296-021E7868A21B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mouster\\moustermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96BC1B0D-362C-224A-B296-021E7868A21B}|Assembly-CSharp.csproj|E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\assets\\scripts\\mouster\\enemymain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BC1B0D-362C-224A-B296-021E7868A21B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mouster\\enemymain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96BC1B0D-362C-224A-B296-021E7868A21B}|Assembly-CSharp.csproj|e:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\assets\\scripts\\player\\characterbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BC1B0D-362C-224A-B296-021E7868A21B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\characterbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96BC1B0D-362C-224A-B296-021E7868A21B}|Assembly-CSharp.csproj|e:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\assets\\scripts\\expsystem\\expmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BC1B0D-362C-224A-B296-021E7868A21B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\expsystem\\expmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96BC1B0D-362C-224A-B296-021E7868A21B}|Assembly-CSharp.csproj|E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\assets\\scripts\\savesystem\\savebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BC1B0D-362C-224A-B296-021E7868A21B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\savesystem\\savebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NormalShoot.cs",
+              "DocumentMoniker": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\Assets\\Scripts\\Player\\NormalShoot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\NormalShoot.cs",
+              "ToolTip": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\Assets\\Scripts\\Player\\NormalShoot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\NormalShoot.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAkwHkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T17:11:38.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CharacterBase.cs",
+              "DocumentMoniker": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\Assets\\Scripts\\Player\\CharacterBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\CharacterBase.cs",
+              "ToolTip": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\Assets\\Scripts\\Player\\CharacterBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\CharacterBase.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T16:45:14.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExpManager.cs",
+              "DocumentMoniker": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\Assets\\Scripts\\ExpSystem\\ExpManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ExpSystem\\ExpManager.cs",
+              "ToolTip": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\Assets\\Scripts\\ExpSystem\\ExpManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ExpSystem\\ExpManager.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAA/wIQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T16:35:23.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaveButton.cs",
+              "DocumentMoniker": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\Assets\\Scripts\\SaveSystem\\SaveButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveSystem\\SaveButton.cs",
+              "ToolTip": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\Assets\\Scripts\\SaveSystem\\SaveButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveSystem\\SaveButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T15:26:34.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaveManager.cs",
+              "DocumentMoniker": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\Assets\\Scripts\\SaveSystem\\SaveManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveSystem\\SaveManager.cs",
+              "ToolTip": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\Assets\\Scripts\\SaveSystem\\SaveManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveSystem\\SaveManager.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwGQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T15:26:34.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyMain.cs",
+              "DocumentMoniker": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\Assets\\Scripts\\Mouster\\EnemyMain.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Mouster\\EnemyMain.cs",
+              "ToolTip": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\Assets\\Scripts\\Mouster\\EnemyMain.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Mouster\\EnemyMain.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAA+wPoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T15:26:34.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MousterManager.cs",
+              "DocumentMoniker": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\Assets\\Scripts\\Mouster\\MousterManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Mouster\\MousterManager.cs",
+              "ToolTip": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\Assets\\Scripts\\Mouster\\MousterManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Mouster\\MousterManager.cs",
+              "ViewState": "AgIAANsAAAAAAAAAAAAAAPIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T15:26:34.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaveData.cs",
+              "DocumentMoniker": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\Assets\\Scripts\\SaveSystem\\SaveData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveSystem\\SaveData.cs",
+              "ToolTip": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\Assets\\Scripts\\SaveSystem\\SaveData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveSystem\\SaveData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T15:26:34.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
