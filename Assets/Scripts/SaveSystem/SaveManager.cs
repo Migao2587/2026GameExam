@@ -2,7 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel.Design.Serialization;
 using System.IO;
+#if UNITY_EDITOR
 using UnityEditor.SearchService;
+#endif
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
