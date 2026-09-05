@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96BC1B0D-362C-224A-B296-021E7868A21B}|Assembly-CSharp.csproj|e:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\assets\\scripts\\talksystem\\charasend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BC1B0D-362C-224A-B296-021E7868A21B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\talksystem\\charasend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96BC1B0D-362C-224A-B296-021E7868A21B}|Assembly-CSharp.csproj|E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\assets\\scripts\\ui\\dieui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BC1B0D-362C-224A-B296-021E7868A21B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\dieui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96BC1B0D-362C-224A-B296-021E7868A21B}|Assembly-CSharp.csproj|E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\assets\\scripts\\talksystem\\talkcontorl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BC1B0D-362C-224A-B296-021E7868A21B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\talksystem\\talkcontorl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96BC1B0D-362C-224A-B296-021E7868A21B}|Assembly-CSharp.csproj|E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\assets\\scripts\\talksystem\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BC1B0D-362C-224A-B296-021E7868A21B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\talksystem\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96BC1B0D-362C-224A-B296-021E7868A21B}|Assembly-CSharp.csproj|E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\assets\\scripts\\savesystem\\loadsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BC1B0D-362C-224A-B296-021E7868A21B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\savesystem\\loadsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96BC1B0D-362C-224A-B296-021E7868A21B}|Assembly-CSharp.csproj|E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\assets\\scripts\\talksystem\\talkbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BC1B0D-362C-224A-B296-021E7868A21B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\talksystem\\talkbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96BC1B0D-362C-224A-B296-021E7868A21B}|Assembly-CSharp.csproj|E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\assets\\scripts\\talksystem\\charactertalk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BC1B0D-362C-224A-B296-021E7868A21B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\talksystem\\charactertalk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "charaSend.cs",
+              "DocumentMoniker": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\Assets\\Scripts\\TalkSystem\\charaSend.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TalkSystem\\charaSend.cs",
+              "ToolTip": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\Assets\\Scripts\\TalkSystem\\charaSend.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TalkSystem\\charaSend.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T16:50:18.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DieUI.cs",
+              "DocumentMoniker": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\Assets\\Scripts\\UI\\DieUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\DieUI.cs",
+              "ToolTip": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\Assets\\Scripts\\UI\\DieUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\DieUI.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T16:50:13.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoadSystem.cs",
+              "DocumentMoniker": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\Assets\\Scripts\\SaveSystem\\LoadSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveSystem\\LoadSystem.cs",
+              "ToolTip": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\Assets\\Scripts\\SaveSystem\\LoadSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveSystem\\LoadSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T16:50:13.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test.cs",
+              "DocumentMoniker": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\Assets\\Scripts\\TalkSystem\\Test.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TalkSystem\\Test.cs",
+              "ToolTip": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\Assets\\Scripts\\TalkSystem\\Test.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TalkSystem\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T16:50:13.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TalkContorl.cs",
+              "DocumentMoniker": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\Assets\\Scripts\\TalkSystem\\TalkContorl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TalkSystem\\TalkContorl.cs",
+              "ToolTip": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\Assets\\Scripts\\TalkSystem\\TalkContorl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TalkSystem\\TalkContorl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T16:50:13.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CharacterTalk.cs",
+              "DocumentMoniker": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\Assets\\Scripts\\TalkSystem\\CharacterTalk.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TalkSystem\\CharacterTalk.cs",
+              "ToolTip": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\Assets\\Scripts\\TalkSystem\\CharacterTalk.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TalkSystem\\CharacterTalk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T16:50:13.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TalkBase.cs",
+              "DocumentMoniker": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\Assets\\Scripts\\TalkSystem\\TalkBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TalkSystem\\TalkBase.cs",
+              "ToolTip": "E:\\mianshi\\\u514D\u8BD52\\\u514D\u8BD52\\Assets\\Scripts\\TalkSystem\\TalkBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TalkSystem\\TalkBase.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T16:50:13.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

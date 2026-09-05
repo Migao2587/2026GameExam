@@ -15,10 +15,21 @@ public class PlayerInput2 : MonoBehaviour
     private InputAction playermove;
     private InputAction pause;
 
+    //全局静态单例
+    public static PlayerInput2 Instance { get; private set; }
     private void Awake()
     {
         inputAction = new InputActions();
         inputAction.Play.ESC.performed += OnEscPressed;
+        //全局唯一单例
+        if (Instance != null && Instance != this)
+        {
+            Destroy(gameObject);
+        }
+        else
+        { 
+            Instance = this;
+        }
     }
 
     private void OnEnable()
